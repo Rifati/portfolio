@@ -1,0 +1,54 @@
+body{
+	background-color: #c0c0c0;
+}
+.h1{
+	
+	font-family: "Neou"
+	font-size: 32px;
+    color: #857777;
+}
+.h2{
+	
+	font-family: "Neou"
+	font-size: 18px;
+	color: #857777;	
+}
+.h3{
+	
+	font-size: 24px
+	font-family: "Neou";
+	margin: 10% auto;
+	width: 900px;
+	
+}
+
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #999595;
+    border: solid 1px #c3c3c3;
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+    color: #aea6a6;	
+}
+
+ul {
+	display: inline-block;
+}
+a {color: black;}
+iframe {
+	margin-top: 5vw;
+	display: inline-block;
+	border: 0.2vw solid black;
+	height: 35vw;
+	width: 70vw;
+}
+
+.foto{
+
+  margin-left:40%	
+
+}
